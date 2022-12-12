@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\bin\Debug\MetotOdev.exe.config
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\bin\Debug\MetotOdev.exe
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\bin\Debug\MetotOdev.pdb
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\obj\Debug\MetotOdev.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\obj\Debug\MetotOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\obj\Debug\MetotOdev.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\obj\Debug\MetotOdev.exe
+C:\Users\Furkan\source\repos\MetotOdev\MetotOdev\obj\Debug\MetotOdev.pdb
